@@ -1,7 +1,8 @@
-<h1 align="center">Hi 👋, I'm Matheus Augusto</h1>
-<h3 align="center">A passionate backend developer from Brazil</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=matheus-augusto36&label=Profile%20views&color=0e75b6&style=flat" alt="matheus-augusto36" /> </p>
 
+- Hi 👋, I'm **Matheus Augusto**
 - 🌱 I’m currently learning **Java, JS and SQL**
+- ⚡ I'm amateur guitarrist and gamer, I love music, nature, philosophy and working out **(and especially coffee)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
